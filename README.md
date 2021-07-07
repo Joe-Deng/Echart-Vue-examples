@@ -22,7 +22,7 @@ npm run build
 
 # 七个Echarts图例，并且详细注释了所有配置项
 # 柱状图
-![Alt text]('./static/Bar.png')
+![Alt text]('static/Bar.png')
 
 # 折线图
 ![Alt text]('./static/Line.png')
