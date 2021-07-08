@@ -22,25 +22,25 @@ npm run build
 
 # 七个Echarts图例，并且详细注释了所有配置项
 # 柱状图
-![Alt text]('./static/Bar.png')
+![Alt text](./static/Bar.png)
 
 # 折线图
-![Alt text]('./static/Line.png')
+![Alt text](./static/Line.png)
 
 # 散点图
-![Alt text]('./static/Scatter.png')
+![Alt text](./static/Scatter.png)
 
 # 饼图
-![Alt text]('./static/Pie.png')
+![Alt text](./static/Pie.png)
 
 # 地图（中国地图省、市、县）
-![Alt text]('./static/Map.png')
+![Alt text](./static/Map.png)
 
 # 雷达图
-![Alt text]('./static/Radar.png')
+![Alt text](./static/Radar.png)
 
 # 仪表盘
-![Alt text]('./static/Gauge.png')
+![Alt text](./static/Gauge.png)
 
 # --------------------------------------------------------
 地图数据保存于服务器，而非放在项目中

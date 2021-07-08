@@ -1,8 +1,13 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Bar</router-link> |
+      <router-link to="/line">Line</router-link> |
+      <router-link to="/scatter">Scatter</router-link> |
+      <router-link to="/pie">Pie</router-link> |
+      <router-link to="/map">Map</router-link> |
+      <router-link to="/radar">Radar</router-link> |
+      <router-link to="/gauge">Gauge</router-link> |
     </div>
     <router-view/>
   </div>
